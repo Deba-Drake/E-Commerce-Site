@@ -1,4 +1,4 @@
-package E_Commerce_Site.Swift_Shopper;
+package E_Commerce_Site.Swift_Shopper.allpackages;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
